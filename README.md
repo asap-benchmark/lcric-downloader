@@ -1,5 +1,15 @@
 # Lcric Downloader
 
-The repository will be updated with a cmd script for downloading all the videos and also the associated annotations.
 
-In the meantime, the dataset along with the annotations can be downloaded from [here](https://drive.google.com/drive/folders/1P189zYXDMCQgJWJQY7ZsEFQ6QlMvQ-af?usp=sharing).
+Just execute the downloader script for downloading all the match videos.
+
+```
+python lcric_donwload.py
+```
+
+This will create a `videos` directory. The annotations can be downloaded from [here](https://drive.google.com/drive/folders/1tTQZmypR8dbai9ZrM5IiTSMVNCzX61Y2?usp=share_link).
+
+
+### Collective Drive for both videos and annotations
+
+Alternatively, the match videos along with the annotations can also be downloaded from the drive link [here](https://drive.google.com/drive/folders/1P189zYXDMCQgJWJQY7ZsEFQ6QlMvQ-af?usp=sharing).

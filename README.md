@@ -4,7 +4,7 @@
 Just execute the downloader script for downloading all the match videos.
 
 ```
-python lcric_donwload.py
+python lcric_download.py
 ```
 
 This will create a `videos` directory. The annotations can be downloaded from [here](https://drive.google.com/drive/folders/1tTQZmypR8dbai9ZrM5IiTSMVNCzX61Y2?usp=share_link).
